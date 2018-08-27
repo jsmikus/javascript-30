@@ -15,4 +15,11 @@ my variation of possible solutions in javascript30 challenge
 2. **On JS**: There is always a way to write something in a smaller amount of code. It depends on your state of knowledge. Before you start shortening excessively, ask yourself: will this code be readable and reusable? When working together on a project, someone will often work with your code.
 3. **On life**: Clock's hands are definitely not the biggest fans of the digitization era.
 
-- [ ] 03. ...
+- [x] 03. [CSS Variables](https://github.com/jsmikus/javascript-30/tree/master/03%20-%20CSS%20Variables)
+![Preview](https://github.com/jsmikus/javascript-30/blob/master/03%20-%20CSS%20Variables/preview003.jpg)
+###### What I've learned:
+1. **On HTML&CSS**: 
+2. **On JS**:
+3. **On life**: 
+
+- [] 04. ...
